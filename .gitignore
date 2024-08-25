@@ -1,0 +1,8 @@
+.vs/
+*.vs/
+*.vscode/
+*.user
+*.userosscache
+*.suo
+*.sw?
+*.vsidx
